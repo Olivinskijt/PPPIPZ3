@@ -8,3 +8,8 @@ Database (база даних)	- Зберігає користувачів, пр
 Notification Service -	Відповідає за сповіщення — надсилає нагадування
 API (REST) -	Канал обміну даними між frontend і backend
 External Services (опціонально) -	Наприклад, інтеграція з Telegram або email для нагадувань
+
+
+Концептуальна архітектура онлайн-щоденника студента:
+
+![Architecture Overview](docs/architecture/architecture_overview.png)
