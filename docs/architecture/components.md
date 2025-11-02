@@ -12,4 +12,4 @@ External Services (опціонально) -	Наприклад, інтегра�
 
 Концептуальна архітектура онлайн-щоденника студента:
 
-![Architecture Overview](docs/architecture/architecture_overview.png)
+![Architecture Overview](architecture_overview.png)
