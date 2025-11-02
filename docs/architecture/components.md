@@ -13,3 +13,6 @@ External Services (опціонально) -	Наприклад, інтегра�
 Концептуальна архітектура онлайн-щоденника студента:
 
 ![Architecture Overview](architecture_overview.png)
+
+Посилання на дошку GitHub Projects:
+https://github.com/users/Olivinskijt/projects/1/views/1
