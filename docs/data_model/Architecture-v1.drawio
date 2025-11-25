@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="Страница — 1" id="nA9RoNyy9VmrfFUdB1OA">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CWXyIDjiwzKycCweKUZY-3" edge="1" parent="1" source="CWXyIDjiwzKycCweKUZY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CWXyIDjiwzKycCweKUZY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="User" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-4" edge="1" parent="1" source="CWXyIDjiwzKycCweKUZY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CWXyIDjiwzKycCweKUZY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Frontend" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-6" edge="1" parent="1" source="CWXyIDjiwzKycCweKUZY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CWXyIDjiwzKycCweKUZY-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API (Rest)" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-9" edge="1" parent="1" source="CWXyIDjiwzKycCweKUZY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;startArrow=classic;startFill=1;" target="CWXyIDjiwzKycCweKUZY-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-10" edge="1" parent="1" source="CWXyIDjiwzKycCweKUZY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="CWXyIDjiwzKycCweKUZY-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Backend (Server)" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Database (SQL, mysql)" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-12" edge="1" parent="1" source="CWXyIDjiwzKycCweKUZY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CWXyIDjiwzKycCweKUZY-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Notification Service" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="CWXyIDjiwzKycCweKUZY-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Push&lt;div&gt;або&lt;/div&gt;&lt;div&gt;Services (Telegram, email, etc)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="PTa3K1M1FP_Y4DbAvaz1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Grades, Subjects, Deadlines, Users" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="PTa3K1M1FP_Y4DbAvaz1-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="JSON: Grades list, Deadline info" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
